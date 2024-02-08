@@ -1,2 +1,2 @@
 # pam
-A way to install applications in the terminal written in Python.
+A way to download and install packaged applications
